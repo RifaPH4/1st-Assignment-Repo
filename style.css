@@ -19,3 +19,10 @@ section{
     width: 65%;
     padding: 30px;
 }
+.link-button{
+    text-decoration: none;
+    background-color: tomato;
+    padding: 10px 40px;
+    border-radius: 15px;
+    color: white;
+}
